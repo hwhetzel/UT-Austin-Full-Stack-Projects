@@ -16,7 +16,10 @@ A custom-built single-page video player that plays a list of MP4 videos with int
 
 **Tech Stack:** HTML, CSS, JavaScript (ES6), DOM manipulation, array methods (`indexOf`, `find`, `length`), and `Math.random()` for shuffling. 
 
-**How to Run:** Open `index.html` in a browser to use the video player. 
+**How to Run:** 
+- Put videos into `videos` folder
+- Add video information into `videos.js` file
+- Open `index.html` in a browser to use the video player. 
 
 <br>
 
